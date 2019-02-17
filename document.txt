@@ -1,0 +1,24 @@
+xTranslator è uno script che permette di tradurre file xml.
+
+Per il funzionamento sono necessari:
+-Python 3.6+
+-Pip: in Linux è già presente, per Windows vedere il seguente link(https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation)
+-Babel: modulo di Python che estende il codice ISO 639-1
+-Apiclient: modulo di Python per l'utilizzo delle API Google, per installazione vedere il seguente Link (https://developers.google.com/api-client-library/python/start/installation)
+
+Lo script traduce i file secondo la struttura:
+root
+	languages
+		fallback
+		language
+	sections
+		section
+			label
+				translation
+	messages
+		message
+			translation
+Per l'esecuzione digitare: python [nomeScript] [percorsoFileXml]
+Una volta eseguito lo script viene richiesta la lingua di traduzione che deve essere indicata secondo ISO 639-1; in caso la lingua nonn venga riconosciuta si procede all'inserimento della lingua per esteso.
+Il salvataggio del file può avvenire sovrascrivendo il file indicato negli argomenti o indicando il percroso al momento del salvataggio.
+

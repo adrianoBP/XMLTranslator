@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+	<languages>
+		<fallback>it</fallback>
+		<language code="en">English</language>
+		<language code="it">Italiano</language>
+		<language code="sw">Swenski</language>
+		<language code="fr">français</language>
+		<language code="de">Deutsch</language>
+		<language code="bg">български</language>
+		<language code="ar">العربية</language>
+	</languages>
+	<sections>
+		<section name="main">
+			<label name="NO_STRUCTURE_SELECTED">
+				<translation code="it">Nessuna struttura selezionata</translation>
+				<translation code="en">No structure selected</translation>
+				<translation code="sw">wwdwdwdw</translation>
+				<translation code="fr">Aucun cadre sélectionné</translation>
+				<translation code="de">Kein Rahmen gewählt</translation>
+				<translation code="bg">Не рамка, избрана</translation>
+				<translation code="ar">لم يتم تحديد أي إطار</translation>
+			</label>
+		</section>
+	</sections>
+	<messages>
+		<message name="MSG1">
+			<translation code="it">messaggio 1 in italiano</translation>
+			<translation code="sw">msg 1 in swedish</translation>
+			<translation code="fr">1 message dans italien</translation>
+			<translation code="de">1 Nachricht in Italienisch</translation>
+			<translation code="bg">1 съобщение на италиански</translation>
+			<translation code="ar">1 رسالة باللغة الإيطالية</translation>
+		</message>
+	</messages>
+</root>

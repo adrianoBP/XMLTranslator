@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+	<languages>
+		<fallback>it</fallback>
+		<language code="it">Italiano</language>
+		<language code="sw">Kiswahili</language>
+		<language code="xh">isiXhosa</language>
+		<language code="fr">français</language>
+		<language code="lo">ລາວ</language>
+		<language code="de">Deutsch</language>
+		<language code="ja">日本語</language>
+		<language code="haw">ʻŌlelo Hawaiʻi</language>
+		<language code="zh-TW">chinese (Traditional)</language>
+		<language code="cs">čeština</language>
+		<language code="ha">Hausa</language>
+		<language code="hi">हिन्दी</language>
+	</languages>
+	<sections>
+		<section name="main">
+			<label name="NO_STRUCTURE_SELECTED">
+				<translation code="it">Nessuna struttura selezionata</translation>
+				<translation code="sw">Hakuna sura ya kuchaguliwa</translation>
+				<translation code="xh">Akukho isakhelo esikhethiweyo</translation>
+				<translation code="lo">No ເລືອກກອບ</translation>
+				<translation code="de">Kein Rahmen gewählt</translation>
+				<translation code="ja">フレームが選択されていませんいいえ</translation>
+				<translation code="haw">No maoli i koho</translation>
+				<translation code="zh-TW">沒有選擇框</translation>
+				<translation code="cs">vybrán žádný rámeček</translation>
+				<translation code="ha">Babu frame zaba</translation>
+				<translation code="hi">कोई फ्रेम चयनित</translation>
+				<translation code="fr">Aucun cadre sélectionné</translation>
+			</label>
+		</section>
+	</sections>
+	<messages>
+		<message name="MSG1">
+			<translation code="it">messaggio 1 in italiano</translation>
+			<translation code="sw">Ujumbe 1 katika Italia</translation>
+			<translation code="xh">umyalezo 1 in Italian</translation>
+			<translation code="fr">1 message dans italien</translation>
+			<translation code="lo">1 ຂໍ້ຄວາມໃນອິຕາລີ</translation>
+			<translation code="de">1 Nachricht in Italienisch</translation>
+			<translation code="ja">イタリアでの1件のメッセージ</translation>
+			<translation code="haw">1 memo ma Italia</translation>
+			<translation code="zh-TW">意大利1消息</translation>
+			<translation code="cs">1 zpráva v italštině</translation>
+			<translation code="ha">1 sako in Italian</translation>
+			<translation code="hi">इतालवी में 1 संदेश</translation>
+		</message>
+	</messages>
+</root>
